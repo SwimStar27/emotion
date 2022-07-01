@@ -1,0 +1,51 @@
+body
+{
+  color: white;
+  background: cornflowerblue;
+}
+span
+{
+  font-size: 30px;
+}
+#camera,#result
+{
+  border: 2px dashed black;
+  width: 280px;
+  height: 190px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+#bake{
+  color: #ffff01;
+  font-weight: bold;
+}
+
+#ugh{
+  font-weight: bold;
+  color: black
+}
+
+#ice{
+  float: left;
+}
+
+#cream{
+  float: right;
+}
+
+#please{
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+}
